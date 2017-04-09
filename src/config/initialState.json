@@ -1,0 +1,52 @@
+{
+    "user": "Juan Rodriguez",
+    "publications": [
+        {
+            "from": "Juan Rodriguez",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempor lacus lacus, condimentum porttitor quam varius at. Morbi urna nisi, dignissim in laoreet eu, lobortis vel libero.",
+            "time": "2017-03-17T05:00:08-05:00",
+            "comments": [
+                {
+                    "from": "Elena",
+                    "text": "Lorem ipsum dolor sit amet, consectetur",
+                    "time": "2017-03-17T06:00:08-05:00"
+                },
+                {
+                    "from": "Jose",
+                    "text": "Lorem ipsum dolor sit amet, consectetur",
+                    "time": "2017-03-17T07:00:08-05:00"
+                },
+                {
+                    "from": "Eduardo",
+                    "text": "Lorem ipsum dolor sit amet, consectetur",
+                    "time": "2017-03-17T09:00:08-05:00"
+                }
+            ],
+            "reactions": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "from": "Liliana Jimenez",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempor lacus lacus, condimentum porttitor quam varius at. Morbi urna nisi, dignissim in laoreet eu, lobortis vel libero.",
+            "time": "2017-03-17T06:00:08-05:00",
+            "comments": [],
+            "reactions": [
+                "1",
+                "1"
+            ]
+        }
+    ]
+}

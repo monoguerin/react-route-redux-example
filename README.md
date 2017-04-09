@@ -1,4 +1,4 @@
-# Domicilios.com Front End test #
+# React router redux test #
 
 ### Requirements ###
 
